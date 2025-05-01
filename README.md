@@ -63,7 +63,7 @@ Given historical sales data, the goal is to predict future sales to help busines
 ## 🚀 How to Run
 1. Clone this repository
    ```bash
-   git clone https://github.com/your-username/Retail-Sales-Forecasting.git
+   git clone https://github.com/ShrijithSM/Retail-Sales-Forecasting
    cd Retail-Sales-Forecasting
    ```
 2. Install dependencies
@@ -93,8 +93,8 @@ Given historical sales data, the goal is to predict future sales to help busines
 ---
 
 ## 📬 Contact
-- 📧 [Your Email]
-- 🔗 [LinkedIn Profile]
+- 📧 [Shrijith S Menon](mailto:shrijithsmenon@gmail.com)
+- 🔗 [ShrijithSM](https://linkedin.com/in/shrijithsm)
 
 ---
 
